@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://iminathi201.github.io/mywebsite/sitemap.xml
